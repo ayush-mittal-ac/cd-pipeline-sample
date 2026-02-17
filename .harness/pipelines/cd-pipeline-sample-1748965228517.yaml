@@ -29,5 +29,5 @@ pipeline:
     ci:
       codebase:
         connectorRef: org.workshopgithub
-        repoName: harness-community/cd-pipeline-sample
+        repoName: ayushmittalac/harness-nodejs-sample
         build: <+input>
